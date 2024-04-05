@@ -33,3 +33,8 @@ Precione W para direcionar para WEB ou ler QR code para abrir no android pelo AP
 	criando style.js em main
 
 ## 1 commit
+
+## 2 PASSO
+
+Copiado footer e header adicionado cores e estilo inicial
+
